@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Americano",
+    "image": "lib/assets/images/home-americano.png",
+    "price": 3
+  },
+  {
+    "name": "Cappuccino",
+    "image": "lib/assets/images/home-cappuccino.png",
+    "price": 3
+  },
+  {
+    "name": "Mocha",
+    "image": "lib/assets/images/home-mocha.png",
+    "price": 3
+  },
+  {
+    "name": "Flat White",
+    "image": "lib/assets/images/home-flatwhite.png",
+    "price": 3
+  }
+]
